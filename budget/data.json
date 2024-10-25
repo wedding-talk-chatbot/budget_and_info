@@ -1,0 +1,366 @@
+{
+    "budgetAmount": 50000000,
+    "totalSpendingAmount": 28496820,
+    "groupedSpendings": [
+      {
+        "budgetCategory": {
+          "budgetCategoryIdx": 1,
+          "budgetCategoryName": "본식",
+          "coupleIdx": null,
+          "iconId": null,
+          "iconColor": null,
+          "budgetCategoryType": "official"
+        },
+        "totalAmount": 1000000,
+        "spendings": [
+          {
+            "spendingIdx": 3006,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 1,
+            "amount": 0,
+            "spendingDt": "2024-10-11T04:59:59.000Z",
+            "title": "식대",
+            "spendingType": "official",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": null,
+            "createDt": "2024-10-10T19:59:59.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3023,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 1,
+            "amount": 1000000,
+            "spendingDt": "2024-07-20T00:00:00.000Z",
+            "title": "홀 대관료",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "deposit",
+            "memo": "",
+            "createDt": "2024-10-10T20:04:32.000Z",
+            "updateDt": null
+          }
+        ]
+      },
+      {
+        "budgetCategory": {
+          "budgetCategoryIdx": 2,
+          "budgetCategoryName": "스드메",
+          "coupleIdx": null,
+          "iconId": null,
+          "iconColor": null,
+          "budgetCategoryType": "official"
+        },
+        "totalAmount": 1439000,
+        "spendings": [
+          {
+            "spendingIdx": 3007,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 2,
+            "amount": 1439000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "스드메",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "deposit",
+            "memo": "336,000원 남음",
+            "createDt": "2024-10-10T19:59:59.000Z",
+            "updateDt": "2024-10-10T20:06:25.000Z"
+          }
+        ]
+      },
+      {
+        "budgetCategory": {
+          "budgetCategoryIdx": 3,
+          "budgetCategoryName": "예복",
+          "coupleIdx": null,
+          "iconId": null,
+          "iconColor": null,
+          "budgetCategoryType": "official"
+        },
+        "totalAmount": 0,
+        "spendings": [
+          {
+            "spendingIdx": 3014,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 3,
+            "amount": 0,
+            "spendingDt": "2024-10-11T04:59:59.000Z",
+            "title": "예복",
+            "spendingType": "official",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": null,
+            "createDt": "2024-10-10T19:59:59.000Z",
+            "updateDt": null
+          }
+        ]
+      },
+      {
+        "budgetCategory": {
+          "budgetCategoryIdx": 4,
+          "budgetCategoryName": "예물/예단",
+          "coupleIdx": null,
+          "iconId": null,
+          "iconColor": null,
+          "budgetCategoryType": "official"
+        },
+        "totalAmount": 2390000,
+        "spendings": [
+          {
+            "spendingIdx": 3015,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 4,
+            "amount": 2390000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "결혼반지",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "",
+            "createDt": "2024-10-10T19:59:59.000Z",
+            "updateDt": "2024-10-11T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "budgetCategory": {
+          "budgetCategoryIdx": 5,
+          "budgetCategoryName": "신혼여행",
+          "coupleIdx": null,
+          "iconId": null,
+          "iconColor": null,
+          "budgetCategoryType": "official"
+        },
+        "totalAmount": 0,
+        "spendings": [
+          {
+            "spendingIdx": 3017,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 5,
+            "amount": 0,
+            "spendingDt": "2024-10-11T04:59:59.000Z",
+            "title": "숙박비",
+            "spendingType": "official",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": null,
+            "createDt": "2024-10-10T19:59:59.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3018,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 5,
+            "amount": 0,
+            "spendingDt": "2024-10-11T04:59:59.000Z",
+            "title": "항공권",
+            "spendingType": "official",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": null,
+            "createDt": "2024-10-10T19:59:59.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3019,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 5,
+            "amount": 0,
+            "spendingDt": "2024-10-11T04:59:59.000Z",
+            "title": "투어 및 기타 경비",
+            "spendingType": "official",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": null,
+            "createDt": "2024-10-10T19:59:59.000Z",
+            "updateDt": null
+          }
+        ]
+      }, {
+        "budgetCategory": {
+          "budgetCategoryIdx": 6,
+          "budgetCategoryName": "가전/가구",
+          "coupleIdx": null,
+          "iconId": null,
+          "iconColor": null,
+          "budgetCategoryType": "official"
+        },
+        "totalAmount": 21557820,
+        "spendings": [
+          {
+            "spendingIdx": 3020,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 6,
+            "amount": 759000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "청소기",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "샤크 닌자 ",
+            "createDt": "2024-10-10T19:59:59.000Z",
+            "updateDt": "2024-10-11T00:00:00.000Z"
+          },
+          {
+            "spendingIdx": 3092,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 6,
+            "amount": 8102000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "침대",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "시몬스 윌리엄kk+라이트노체+냉감패드",
+            "createDt": "2024-10-11T01:44:38.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3093,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 6,
+            "amount": 8770000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "삼성",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "TV, 냉장고, 세탁기건조기, 공기청정기",
+            "createDt": "2024-10-11T01:55:51.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3094,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 6,
+            "amount": 722000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "식탁",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "배송비8만포함",
+            "createDt": "2024-10-11T02:31:47.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3139,
+            "coupleIdx": 152,
+            "userIdx": 171,
+            "budgetCategoryIdx": 6,
+            "amount": 3204820,
+            "spendingDt": "2024-09-22T00:00:00.000Z",
+            "title": "쇼파",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "자코모 베니3",
+            "createDt": "2024-10-11T04:14:15.000Z",
+            "updateDt": "2024-09-22T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "budgetCategory": {
+          "budgetCategoryIdx": 7,
+          "budgetCategoryName": "기타",
+          "coupleIdx": null,
+          "iconId": null,
+          "iconColor": null,
+          "budgetCategoryType": "official"
+        },
+        "totalAmount": 2110000,
+        "spendings": [
+          {
+            "spendingIdx": 3087,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 7,
+            "amount": 450000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "줄눈",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "",
+            "createDt": "2024-10-11T01:37:15.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3088,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 7,
+            "amount": 550000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "탄성코트",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "",
+            "createDt": "2024-10-11T01:37:31.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3089,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 7,
+            "amount": 270000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "하자점검",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "",
+            "createDt": "2024-10-11T01:38:00.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3090,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 7,
+            "amount": 510000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "입주청소",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "",
+            "createDt": "2024-10-11T01:38:17.000Z",
+            "updateDt": null
+          },
+          {
+            "spendingIdx": 3091,
+            "coupleIdx": 152,
+            "userIdx": 166,
+            "budgetCategoryIdx": 7,
+            "amount": 330000,
+            "spendingDt": "2024-10-11T00:00:00.000Z",
+            "title": "TV(무타공)",
+            "spendingType": "private",
+            "share": "together",
+            "paymentMethod": "lumpSum",
+            "memo": "",
+            "createDt": "2024-10-11T01:38:41.000Z",
+            "updateDt": null
+          }
+        ]
+      }
+    ]
+  } 
